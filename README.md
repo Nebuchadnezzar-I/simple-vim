@@ -1,6 +1,6 @@
 # SNIM - A Minimalistic Text Editor
 
-![SNIM Screenshot](path_to_screenshot.png) <!-- You can add a screenshot of your editor here -->
+![SNIM Screenshot](/img/snim-pic.png) <!-- You can add a screenshot of your editor here -->
 
 SNIM is a minimalistic text editor written in C, designed to be lightweight and fast. It is a project to learn systems programming and explore how text editors work. It features syntax highlighting, file I/O, and basic search functionality, inspired by the original Kilo editor by antirez.
 
